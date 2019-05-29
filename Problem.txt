@@ -1,0 +1,3 @@
+problems :
+	- problem of positioning elements , to solve it we use flexbox;
+	- slider problem , solved by using overflow hidden to a div contains another large one.

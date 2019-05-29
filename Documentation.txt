@@ -1,0 +1,9 @@
+About team:
+	- Taha Mohamed
+	- Hamed Gamal
+
+About project:
+	-this designe template simulate some pages of diving Center web pages.
+	-we use HTML & CSS to designe it .
+	-we use flex box to set element as required.
+	-we use some css animation .
